@@ -1,0 +1,29 @@
+
+
+
+.cont4{
+    height:auto;
+    width:auto;
+    margin-top: 66px;
+    padding-top: 10px;
+    display: flex;
+		flex-direction: row;
+		justify-content: center;
+    color: rgb(8, 0, 53);
+background-color:rgb(255, 255, 255);
+}
+.h1
+{margin:20px;}
+
+@media(max-width: 760px)
+{
+  .cont4{
+      height:auto;
+    width:auto;
+     display: flex;
+		flex-direction: row;
+		justify-content: center;
+    color: rgb(8, 0, 53);
+background-color:rgb(255, 255, 255);
+  }
+}

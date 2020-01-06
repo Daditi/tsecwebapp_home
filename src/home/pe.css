@@ -1,0 +1,22 @@
+
+.cen{
+  padding-left: 20px;
+}
+.ima{
+  background-size: cover;
+  position: relative;
+  height: 200px;
+  width: 191px;
+  border-radius: 5%;
+  box-shadow: black;
+  text-shadow: indigo;
+  margin-left: 10px;
+}
+.cont1{
+    height:auto;
+    width:auto;
+    margin-top: 19px;
+    padding-top: 10px;
+color: rgb(8, 0, 53);
+background-color: rgb(250, 251, 224);
+  }
